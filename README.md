@@ -11,6 +11,6 @@ A COLORFUL, dark theme for Atom, High contrast
     <code> apm install awesome-dark-syntax </code>
   </li>
   <li>
-    Edit -> Preferences -> Install, click Themes, Search blueberry-syntax`, click Install 
+    Edit -> Preferences -> Install, click Themes, Search awesome-dark-syntax`, click Install 
   </li>
 </ul>  
