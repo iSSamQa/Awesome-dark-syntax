@@ -1,0 +1,16 @@
+{
+  "name": "awesome-dark-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A syntax theme based on 'Behave'. Modified to be slightly higher contrast.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "awesome-dark"
+  ],
+  "repository": "https://github.com/iSSamQa/awesome-dark-syntax.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
